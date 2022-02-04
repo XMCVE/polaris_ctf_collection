@@ -13,7 +13,7 @@ Score: *33*
 
 Time and the dragons always tell the real.
 
-![Quadrennial](../../../picture/realworldctf 正式赛/Quadrennial.png)
+![Quadrennial](https://kawhi.oss-cn-beijing.aliyuncs.com/img/Quadrennial.png)
 
 Tip：4 words in the right order/use the underscore to connect the truth and put it in the flag format rwctf{something}.
 
@@ -57,7 +57,7 @@ Score: *500*
 
 Help check how secure our latest PaaS (Pdftohtml-as-a-Service) is!
 
-![hso_groupie_8493e7780b3e598201211dbc71e0984a](../../../picture/realworldctf 正式赛/hso_groupie_8493e7780b3e598201211dbc71e0984a.jpg)
+![hso_groupie_8493e7780b3e598201211dbc71e0984a](https://kawhi.oss-cn-beijing.aliyuncs.com/img/hso_groupie_8493e7780b3e598201211dbc71e0984a.jpg)
 
 Pick your favorite bug from [this bloody list](https://gitlab.freedesktop.org/poppler/poppler/-/commits/master/poppler/JBIG2Stream.cc), or really, just exploit *that bug* so your exploit would also work on latest Poppler [1] and maybe even KItinerary.
 
