@@ -5,6 +5,8 @@
 链接：https://pan.baidu.com/s/1maXIZHmRz5Jdgq66THWP-Q 
 提取码：xmxm
 
+阿里云盘：https://www.aliyundrive.com/s/mtELus6bdk6
+
 ## `Digital Souvenir`
 
 Score: *65*
